@@ -1,0 +1,4 @@
+AuthGroupFile /dev/null
+AuthUserFile /home/hipqgiqf/domains/fare4z.tech/.htpasswd/public_html/zattil/.htpasswd
+AuthName "Private"
+ErrorDocument 401 "Unauthorized Access"
